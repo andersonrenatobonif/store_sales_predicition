@@ -61,7 +61,7 @@ Para executar esse projeto utilizei os seguintes passos:
 
 <br>
 <div align="center">
-<img src="visaobot.jpeg" height = "700"width="2000px"/>
+<img src="visaobot.jpeg" height = "700"width="200px"/>
 </div>
 <br>
 
