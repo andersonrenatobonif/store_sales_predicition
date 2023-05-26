@@ -25,25 +25,25 @@ Com base nessas solicitações foi definido a entrega do produto de Data Science
 
 Para executar esse projeto utilizei os seguintes passos:
 
-## Passo 1 - Descrição dos Dados: Renomeação de colunas, mudanças de tipos, preenchimento/exlusão de dados faltantes, visão inicial das variáveis numéricas e categóricas.
+- Passo 1 - Descrição dos Dados: Renomeação de colunas, mudanças de tipos, preenchimento/exlusão de dados faltantes, visão inicial das variáveis numéricas e categóricas.
 
-## Passo 2 - Feature Engineering: Criação das hipóteses a serem validadas na EDA, criação de novas features necessárias na EDA.
+- Passo 2 - Feature Engineering: Criação das hipóteses a serem validadas na EDA, criação de novas features necessárias na EDA.
 
-## Passo 3 - Filtragem dos Dados: Filtragem das linhas e colunas de acordo com o entendimento do negócio.
+- Passo 3 - Filtragem dos Dados: Filtragem das linhas e colunas de acordo com o entendimento do negócio.
 
-## Passo 4  - Análise Exploratória de Dados: Análise de variável resposta, análise únivariada das variáveis numéricas e categóricas, análise bivariada através das hipóteses criadas no passo anterior, correlação de pearson, método V de Cramer.
+- Passo 4  - Análise Exploratória de Dados: Análise de variável resposta, análise únivariada das variáveis numéricas e categóricas, análise bivariada através das hipóteses criadas no passo anterior, correlação de pearson, método V de Cramer.
 
-## Passo 5 - Preparação dos Dados: Aplicãção das transformações e dummização das variáveis.
+- Passo 5 - Preparação dos Dados: Aplicãção das transformações e dummização das variáveis.
 
-## Passo 6 - Seleção das Features: Foi aplicado o algoritmo Boruta para selecionar as variáveis que mais explicam a variável resposta.
+- Passo 6 - Seleção das Features: Foi aplicado o algoritmo Boruta para selecionar as variáveis que mais explicam a variável resposta.
 
-## Passo 7 - Modelos de Machine Learning: Treinamento, teste e avaliação de 5 modelos de machine learning.
+- Passo 7 - Modelos de Machine Learning: Treinamento, teste e avaliação de 5 modelos de machine learning.
 
-## Passo 8 - Fine Tunning: Busca por hiperparâmetros que possam melhorar o modelos selecionado no passo anterior
+- Passo 8 - Fine Tunning: Busca por hiperparâmetros que possam melhorar o modelos selecionado no passo anterior
 
-## Passo 9 - Business Performance: Tradução dos resultados do modelo para aplicação no negócio, a previsão realizada e quão confiável a mesma será para o diretor realizar as tomadas de decisão.
+- Passo 9 - Business Performance: Tradução dos resultados do modelo para aplicação no negócio, a previsão realizada e quão confiável a mesma será para o diretor realizar as tomadas de decisão.
 
-## Passo 10 - Deploy do modelo em produção: Colocar o modelo na Cloud e criar a conexão do modelo como bot no telegram através da API.
+- Passo 10 - Deploy do modelo em produção: Colocar o modelo na Cloud e criar a conexão do modelo como bot no telegram através da API.
 
 
 
