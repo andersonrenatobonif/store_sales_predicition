@@ -59,9 +59,12 @@ Para executar esse projeto utilizei os seguintes passos:
 
 # 5- O produto final do projeto
 
+<br>
 <div align="center">
-<img src="visaobot.jpeg" />
+<img src="visaobot.jpeg" width="700px"/>
 </div>
+<br>
+
 
 As predições podem ser acessadas na conversa no aplicativo Telegram através desse link: https://t.me/PredRossmannBot
 
