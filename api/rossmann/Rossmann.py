@@ -7,7 +7,7 @@ import datetime
 
 class Rossmann (object):
     def __init__(self):
-        self.home_path = 'C:/Users/anderson.bonifacio_i/Desktop/Dados/cds/ds_producao/'
+        self.home_path = ''
         self.competition_distance_scaler =   pickle.load( open( self.home_path + 'parameter/competition_distance_rscaler.pkl', 'rb' ) )
         self.competition_time_month_scaler = pickle.load( open( self.home_path + 'parameter/competition_time_month_rscaler.pkl', 'rb' ) )
         self.promo_time_week_scaler =        pickle.load( open( self.home_path + 'parameter/promo_time_week_mmscaler.pkl', 'rb' ) )
