@@ -7,14 +7,7 @@ Além disso, ele solicitou que a consulta da previsão de vendas de cada loja se
 
 
 
-# 2- Premissas do Negócio
-
-- Foi utilizado apenas um tipo de culinária de cada restaurante, a primeira culinária da lista de cada restaurante foi tomada como a principal.
-
-- As 3 principais visões assumidas para criação do dashboard foram: Visão Países, Visão Cidades, Visão Culinárias
-
-
-# 3- Estratégia da Solução
+# 2- Estratégia da Solução
 
 O projeto foi desenvolvido pensado nas necessidades do diretor, que eram:
 
@@ -47,7 +40,7 @@ Para executar esse projeto utilizei os seguintes passos:
 
 
 
-# 4- Top 3 Insights de Dados
+# 3- Top 3 Insights de Dados
 
 - As lojas vendem mais após o décimo dia de cada mês, é importante buscar mais informações para entender esse fenômeno e utilizá-lo para alavancar as vendas.
 
@@ -57,7 +50,7 @@ Para executar esse projeto utilizei os seguintes passos:
 
 
 
-# 5- O produto final do projeto
+# 4- O produto final do projeto
 
 <br>
 <div align="center">
@@ -73,7 +66,7 @@ As predições podem ser acessadas na conversa no aplicativo Telegram através d
 (Ao fazer a primeira solicitação o modelo vai demorar alguns minutos para responder)
 
 
-# 6- Conclusão
+# 5- Conclusão
 
 O objetivo desse projeto é criar um modelo de predição que ajudasse o diretor a tomar decisões com maior precisão em relação aos recursos finaceiros.
 
@@ -82,7 +75,7 @@ Aplicando esse modelo ele poderá tomar decisões com uma variação máxima de 
 
 
 
-# 7- Próximos passos
+# 6- Próximos passos
 
 - Criar novas opções de consulta no bot.
 
